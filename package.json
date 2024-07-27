@@ -1,8 +1,7 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": ""
   "scripts": {
     "start": "parcel index.html"
   },
